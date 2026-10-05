@@ -1,0 +1,6 @@
+{
+  "name": "Klar - Minimalist To-Do List",
+  "description": "Aplikasi to-do list minimalis, elegan, dan modern dengan estetika Apple/Notion, manajemen tag, filter cerdas, progress bar, dan dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
